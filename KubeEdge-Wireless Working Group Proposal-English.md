@@ -88,7 +88,7 @@ With the development of computing, powerful computing equipment could be seen as
 
    Wireless communication tech, reenforcement learning, multi-access protocol, Invoke the schema on the communication computing topology，
 
-##### **Participating unit **：
+##### Participating unit ：
 
 PengCheng Lab，DLMU(Dalian Maritime University)，Shanghai University of Science and Technology，SEU(Southeast University )，SJTU(ShangHai JiaoTong university)，
 
