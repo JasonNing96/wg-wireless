@@ -13,7 +13,7 @@ Author: Jason Ning
 
 ##### 	Vehicle Network/Vessel network/UAV network:
 
-![](./JPG/image-20210203172851933.png  alt="image-20210203172851933" style="zoom:50%;" )
+![](./JPG/image-20210203172851933.png)
 
 
 **Key differences** between wireless and wire:  
@@ -33,7 +33,7 @@ With the development of computing, powerful computing equipment could be seen as
 
 ##### **Air/Sea rescue Collaboration：**
 
-<img src="E:\3.项目相关\KubeEdge-Wireless Working Group\JPG\Kube-Wireless流程图-海洋搜救.png" alt="Kube-Wireless流程图-海洋搜救" style="zoom: 67%;" />
+![](./JPG/Kube-Wireless流程图-海洋搜救.png)
 
 - The environmental complexity of the sea and sky makes communication more difficult
 - The lack of base station support in this scenario necessitates a change in the communication mode.
@@ -63,7 +63,7 @@ With the development of computing, powerful computing equipment could be seen as
 
 #### Architecture:
 
-<img src="../JPG/image-20210131223645659.png" alt="image-20210131223645659" style="zoom:50%;" />
+![](./JPG/image-20210131223645659.png)
 
 - Provide management abilities for Edge Cluster when disconnecting from the Cloud by selecting an Edge Head; 
 - Add Network profiler module to monitor and manage the Edge cluster network resources, which can provide network information for the Edge Head section;
