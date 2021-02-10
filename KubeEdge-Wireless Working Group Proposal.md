@@ -90,7 +90,7 @@ With the development of computing, powerful computing equipment could be seen as
 
 ##### Participating unit ：
 
-PengCheng Lab,(Tingting Yang, Jiahong Ning); DLMU(Dalian Maritime University, Hailong Feng, Zhengqi Cui); Shanghai University of Science and Technology，(Yang Yang, Dapeng Lan); SEU(Southeast University, Chengzhuo Han); SJTU(ShangHai JiaoTong university, Xudong Wang,Jiawei Zhang), CUCC，（China Union Communication Corporation，Gao Chen）
+PengCheng Lab,(Tingting Yang, Jiahong Ning); DLMU(Dalian Maritime University, Hailong Feng, Zhengqi Cui); Shanghai University of Science and Technology，(Yang Yang, Dapeng Lan)；Universitetet i Oslo(DaPeng Lan); SEU(Southeast University, Chengzhuo Han); SJTU(ShangHai JiaoTong university, Xudong Wang,Jiawei Zhang), CUCC，（China Union Communication Corporation，Gao Chen）
 
 ##### **Roles and Organization Management**
 
