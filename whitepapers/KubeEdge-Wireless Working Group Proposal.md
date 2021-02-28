@@ -18,7 +18,7 @@ Author: Jason Ning
 
 ##### 	Vehicle Network/Vessel network/UAV network:
 
-<img src="KubeEdge-Wireless Working Group Proposal.assets/image-20210203172851933-1612775632507.png" alt="image-20210203172851933" style="zoom:50%;" />
+<img src="../JPG/image-20210203172851933.png" alt="image-20210203172851933" style="zoom: 50%;" />
 
 **Key differences** between wireless and wire:  
 
