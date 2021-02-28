@@ -21,6 +21,8 @@ With the development of computing, powerful computing equipment could be seen as
 - According to the Service Level Agreement, KubeEdge makes decisions on the networking mode and limits the networking scope.
 - Inspired by 3GPP 36.885 standards.
 
+
+
 ##### **Air/Sea rescue Collaboration：**
 
 <img src="E:\3.项目相关\KubeEdge-Wireless Working Group\JPG\Kube-Wireless流程图-海洋搜救.png" alt="Kube-Wireless流程图-海洋搜救" style="zoom: 67%;" />
@@ -31,30 +33,3 @@ With the development of computing, powerful computing equipment could be seen as
 - It is necessary to study the dynamic network structure topology to cope with the constantly changing environment of airspace and sea area.
 
  
-
-
-
-
-
-#### Architecture:
-
-<img src="../JPG/image-20210131223645659.png" alt="image-20210131223645659" style="zoom: 67%;" />
-
-- Provide management abilities for Edge Cluster when disconnecting from the Cloud by selecting an Edge Head; 
-- Add Network profiler module to monitor and manage the Edge cluster network resources, which can provide network information for the Edge Head section;
-- Edge Cluster management in the dynamic network environment by creating Edge mesh network and the Edge Head
-- Support wireless mesh mode for networking, which allow kubeEdge computing nodes quickly  join and exit mesh networking in mobile scenario.
-
-**Network topology management** 
-
-\-    Head selection algorithm
-
-**Computing/Networking resources profilers** 
-
-\-    Computing resources management 
-
-\-    Networking resources management
-
-##### Wireless-Mesh protocol stack
-
--  Storage the protocols for wireless-networking, including 802.11 mesh protocol, communication source topology, computing source topology and network parameter.
