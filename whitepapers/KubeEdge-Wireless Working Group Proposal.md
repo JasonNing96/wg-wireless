@@ -37,7 +37,8 @@ With the development of computing, powerful computing equipment could be seen as
 
 ##### **Air/Sea rescue Collaboration：**
 
-<img src="Kube-Wireless流程图-海洋搜救.png" alt="Kube-Wireless流程图-海洋搜救" style="zoom: 67%;" />
+<img src="../JPG/Kube-Wireless流程图-海洋搜救.png" alt="Kube-Wireless流程图-海洋搜救" style="zoom: 67%;" />
+
 
 - The environmental complexity of the sea and sky makes communication more difficult
 - The lack of base station support in this scenario necessitates a change in the communication mode.
