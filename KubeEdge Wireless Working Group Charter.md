@@ -1,4 +1,4 @@
-# **KubeEdge-Wireless Working Group **
+# KubeEdge-Wireless Working Group 
 
 
 
