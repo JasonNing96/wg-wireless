@@ -1,5 +1,3 @@
-**Readme**
-
 ### KubeEdge-Wireless Working Group 
 
 KubeEdge-Wireless Working group is responsible to simplify, develop, and optimize the communication issues under wireless scenario in kubeEdge.
