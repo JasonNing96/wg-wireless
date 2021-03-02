@@ -6,13 +6,13 @@ Author: Jason Ning
 
 ### **Target:** 
 
-- Our goal is to make an open platform to enable **Wireless**-Edge computing, extending native containerized application orchestration capabilities to hosts at **Wireless**-Edge, which built upon kubernetes and provides fundamental infrastructure support for **Wireless**-network, app deployment and meta-data synchronization between cloud and **Wireless**-edge.
+- Our goal is to make an open platform to enable **Wireless**-Edge computing, extending native containerized application orchestration capabilities to hosts at **Wireless**-Edge, which built upon kubernetes and provides fundamental infrastructure support for **Wireless**-network, app deployment and meta-data synchronization between cloud and **Wireless**-Edge.
 - **Extend** KubeEdge to support **wireless mobile scenarios**.
 
 ### Intention:
 
-- With the development of computing, powerful computing equipment could be seen as multi-agent. Therefore, the  problem of wireless interaction between multiple agents is the main scenario discussed here. 
-- The relationship between different kubeedge can not be easily seen as Online or Offline,  it should be a curve that is  normally distributed.
+- With the development of computing and communication technologies, powerful computing equipments constitutes multi-agent systems. The agents have both computing and comunication capacities and interact with each others. Therefore, the problem of wireless agents interaction between multiple agents and system management is the main scenario discussed here. 
+- The communication relationship between different Kubeedge nodes can not be easily seen as connect or disconnect,  it should be more fine-grain communication management.
 
 #### Scenario：
 
