@@ -16,7 +16,7 @@ Author: Jason Ning
 
 #### Scenario：
 
-##### 	Vehicle Network/Vessel network/UAV network:
+##### 	Vehicle Network/Vessel Network/UAV Network:
 
 <img src="../JPG/image-20210203172851933.png" alt="image-20210203172851933" style="zoom: 40%;" />
 
@@ -25,14 +25,13 @@ Author: Jason Ning
 - Communication mode may need to change from TCP, IP mode to multi-cast or broadcast mode.
 - Network for dynamics scenarios.  
 
-With the development of computing, powerful computing equipment could be seen as multi-agent. Therefore, the  problem of wireless interaction between multiple agents is the main scenario discussed here. 
 
-**Description**:  In the mobile scenario, multiple vehicles support similar service, and each vehicles wireless connected with each other as a KubeEdge node. (e.g. NIO ET7 with NVIDIA Orin * 4 , which has computing power of 1016 TOPS)
+**Description**:  In the mobile scenario, multiple vehicles support similar services, and vehicles wireless connected with each other as KubeEdge nodes. (e.g. NIO ET7 with NVIDIA Orin * 4 , which has computing power of 1016 TOPS)
 
-- Off-line autonomy and node management: Five cars form an mesh network, which can trans information processing between each other in off-line conditions.
-- Leader Selection: Choose a pod as cluster head, to do the overall management of other equipments.
-- KubeEdge-wireless should monitor the whole or partly state of network, to aid in networking decisions.
-- According to the Service Level Agreement, KubeEdge makes decisions on the networking mode and limits the networking scope.
+- Offline autonomy and node management: Five cars form an mesh network, which can transfer information processing between each other in offline conditions.
+- Leader selection: Choose a node as a cluster head, to do the overall management of other equipments.
+- KubeEdge-wireless should monitor the whole or partly network status, to aid in networking decisions.
+- According to the Service Level Agreement, KubeEdge can make decisions on the networking modes and limit the network scope.
 - Inspired by 3GPP 36.885 standards.
 
 ##### **Air/Sea rescue Collaboration：**
@@ -40,33 +39,33 @@ With the development of computing, powerful computing equipment could be seen as
 <img src="../JPG/Kube-Wireless流程图-海洋搜救.png" alt="Kube-Wireless流程图-海洋搜救" style="zoom: 67%;" />
 
 
-- The environmental complexity of the sea and sky makes communication more difficult
+- The environmental complexity of the sea and sky makes communication more difficult.
 - The lack of base station support in this scenario necessitates a change in the communication mode.
-- The search area is enlarged, but the individual energy is limited, and cluster head is needed for management.
-- It is necessary to study the dynamic network structure topology to cope with the constantly changing environment of airspace and sea area.
+- The search target area is enlarged, but the individual energy is limited, and cluster head is needed for management.
+- It is necessary to study the dynamic network topology to cope with the constantly changing environment of airspace and sea area.
 
 
 
 **Proposal:**
 
-- Kubeedge has the ability to manager the complex wireless networking statue without sensing by service.
--  Blurring the boundary between cloud and edge cloud gives KubeEdge more combination ways.
+- KubeEdge has the ability to manager the complex wireless networking status without sensing by service.
+- Blurring the boundary between cloud and edge cloud gives KubeEdge more combinational ways.
 - Explore the requirements for kubeEdge in wireless scenario. 
 
 #### To-Do：
 
-- With the change of networking mode, the traditional communication mode of KubeEdge needs to be extended.
+- With the change of networking modes, the traditional communication modes of KubeEdge need to be extended, such as including broadcast and multi-cast.
 
 - Topologies will constantly changing, and the scheduling of communication capabilities will become a critical issue.
 
-  - Willing to consider the situation of poor network channel quality.
+  - Consider the situation of poor network channel quality.
   - Actively consider the network instability caused by mobility, especial for users joint and exit suddenly.
   - Active feedback to adjust the network, active networking.
 - Cloud Native capability down sinking
 
   - Enable the edge devices to self-organize network and partial autonomy when off-line or discontinuous network. 
 
-  - In most cases, multiple edge devices may spontaneously network to form a small group, and the outside world can join or quit the group.
+  - In most cases, multiple edge devices may spontaneously form a small group, and the outside nodes can join or quit the group.
 
 
 
@@ -99,7 +98,7 @@ With the development of computing, powerful computing equipment could be seen as
 
 ##### **Participating unit **：
 
-PengCheng Lab，DLMU(Dalian Maritime University)，Shanghai University of Science and Technology，SEU(Southeast University )，SJTU(ShangHai JiaoTong university)，CUCC(China Union Communication corporation)
+PengCheng Lab，DLMU(Dalian Maritime University)，University of Oslo (Dapeng Lan), ShanghaiTech University (Yang Yang, Liaotao Wu)，SEU(Southeast University )，SJTU(ShangHai JiaoTong university)，CUCC(China Union Communication corporation)
 
 
 
