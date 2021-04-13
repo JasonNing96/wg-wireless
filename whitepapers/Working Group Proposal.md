@@ -18,7 +18,7 @@ Author: Jason Ning
 
 ##### 	Vehicle Network/Vessel Network/UAV Network:
 
-<img src="../JPG/image-20210203172851933.png" alt="image-20210203172851933" style="zoom: 40%;" />
+<img src="https://snz04pap002files.storage.live.com/y4m9TFrXL6j2ajyTvHbGHvTWUo5w6kT7SMZ2DZq1t1ivm9Trt4Lo7wt4-azpzI5O746g8fXqBkMz0iweMjyNQdBS4WaXnv5HLtyxU_kHOFNGrEpgfrbocPHwC1Jb6TnskFPTfWwvQUzkhgsz-AoRc1VffTLSUX8klBth8EMHG_KmYO5zoKt_Vpk8XVRDn2UO_-J?width=640&height=397&cropmode=none" width="640" height="397" />
 
 **Key differences** between wireless and wire:  
 
@@ -36,7 +36,7 @@ Author: Jason Ning
 
 ##### **Air/Sea rescue Collaboration：**
 
-<img src="../JPG/Kube-Wireless流程图-海洋搜救.png" alt="Kube-Wireless流程图-海洋搜救" style="zoom: 67%;" />
+<img src="https://snz04pap002files.storage.live.com/y4mJdEgovz7T_GDsALgDPEWrN4MhF1P7MudfdjqUTnhIxMSo5vkqrUdk8NpCFe6ypykfj-c0tXva_S67FrJP0G03ntfE6hptIxSc0d296PTI-WVFY-Sg8BYNN2JO0JuoqMVCSY-ytW43_0gp3FUGYZhaOMPInDR_1gc80DlY7s7vlbVV1dEC4YBnlYYCr3euiTW?width=657&height=362&cropmode=none" width="657" height="362" />
 
 
 - The environmental complexity of the sea and sky makes communication more difficult.
@@ -71,7 +71,7 @@ Author: Jason Ning
 
 #### Architecture:
 
-<img src="../JPG/image-20210131223645659.png" alt="image-20210131223645659" style="zoom: 67%;" />
+<img src="https://snz04pap002files.storage.live.com/y4mPFuuV6Auqi2Rce_XRoPMAhgLmB7G5Kvg24DQK7QK6gmyWz4zVEwKhY20b3HbvJoFeJOYOOmILGtydswc3aBgmvCmBqpmP1_DLMYfEuICnqG14cWQHnDmaHfKFVf_sDe2qzyr43jit91CbXKq_r4zZlGWllE-50E9Vc-grpJHy2QW9Hzq52LJG3T3XNMWZet4?width=546&height=656&cropmode=none" width="546" height="656" />
 
 - Provide management abilities for Edge Cluster when disconnecting from the Cloud by selecting an Edge Head; 
 - Add Network profiler module to monitor and manage the Edge cluster network resources, which can provide network information for the Edge Head section;

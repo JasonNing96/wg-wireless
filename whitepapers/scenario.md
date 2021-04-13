@@ -4,7 +4,7 @@ Kubeedge wireless scenario
 
 ##### 	Vehicle Network/Vessel network/UAV network:
 
-<img src="../JPG/image-20210203172851933.png" alt="image-20210203172851933" style="zoom:50%;" />
+<img src="https://snz04pap002files.storage.live.com/y4m9TFrXL6j2ajyTvHbGHvTWUo5w6kT7SMZ2DZq1t1ivm9Trt4Lo7wt4-azpzI5O746g8fXqBkMz0iweMjyNQdBS4WaXnv5HLtyxU_kHOFNGrEpgfrbocPHwC1Jb6TnskFPTfWwvQUzkhgsz-AoRc1VffTLSUX8klBth8EMHG_KmYO5zoKt_Vpk8XVRDn2UO_-J?width=640&height=397&cropmode=none" width="640" height="397" />
 
 **Key differences** between wireless and wire:  
 
@@ -25,7 +25,7 @@ With the development of computing, powerful computing equipment could be seen as
 
 ##### **Air/Sea rescue Collaboration：**
 
-<img src="../JPG/Kube-Wireless流程图-海洋搜救.png" alt="Kube-Wireless流程图-海洋搜救" style="zoom: 67%;" />
+<img src="https://snz04pap002files.storage.live.com/y4mJdEgovz7T_GDsALgDPEWrN4MhF1P7MudfdjqUTnhIxMSo5vkqrUdk8NpCFe6ypykfj-c0tXva_S67FrJP0G03ntfE6hptIxSc0d296PTI-WVFY-Sg8BYNN2JO0JuoqMVCSY-ytW43_0gp3FUGYZhaOMPInDR_1gc80DlY7s7vlbVV1dEC4YBnlYYCr3euiTW?width=657&height=362&cropmode=none" width="657" height="362" />
 
 - The environmental complexity of the sea and sky makes communication more difficult
 - The lack of base station support in this scenario necessitates a change in the communication mode.
